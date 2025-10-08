@@ -1,0 +1,9 @@
+LIttle_Angel high school, 8th grade students information
+==================================================
+
+Name	Birthday   	email
+-----	------------	------
+Abdullah   5 June, 1882    abdullah@kohli.com
+Ahmad	12 April, 2001  ahmad@sharapova.com
+Majid  24 June, 1998   majid@williams.com 
+Fardan      1 May, 1997    fardan@root.com
